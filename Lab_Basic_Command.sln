@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36401.2 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab_Basic_Command", "Lab_Basic_Command\Lab_Basic_Command.csproj", "{FCA3E235-BE14-4C1C-8E45-0200DA280248}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab_Advanced_Command", "Lab_Advanced_Command\Lab_Advanced_Command.csproj", "{873BCC18-AC22-4AF5-BD76-86836B2E7423}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCA3E235-BE14-4C1C-8E45-0200DA280248}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCA3E235-BE14-4C1C-8E45-0200DA280248}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCA3E235-BE14-4C1C-8E45-0200DA280248}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCA3E235-BE14-4C1C-8E45-0200DA280248}.Release|Any CPU.Build.0 = Release|Any CPU
+		{873BCC18-AC22-4AF5-BD76-86836B2E7423}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{873BCC18-AC22-4AF5-BD76-86836B2E7423}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{873BCC18-AC22-4AF5-BD76-86836B2E7423}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{873BCC18-AC22-4AF5-BD76-86836B2E7423}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4EDE8D90-FD9E-4C21-9882-E25C2453697F}
+	EndGlobalSection
+EndGlobal
